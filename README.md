@@ -8,7 +8,8 @@
 * How to write **~**: Press **ALT + n**
 * How to write **[]**: Press **ALT + 5 / ALT + 6**
 * How to write **{}**: Press **ALT + 8 / ALT + 9**
-* How to write a **\**: Press **ALT + SHIFT + /**
+* How to write a **\**: Press ** ALT + SHIFT + / **
+* How to write ** | ** : Press **ALT + 7**
 
 
 ### Markdown Files like this command_line
