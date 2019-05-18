@@ -3,7 +3,7 @@
 
 ### Mac OS (might be useful for windows users)
 
-* How to show hidden files in Finder: In OS X simply press **CMD + SHIFT + .  **
+* How to show hidden files in Finder: In OS X simply press **CMD + SHIFT + .**
 * How to make a screenshot: Press **CMD + SHIFT + 4**
 * How to write **~**: Press **ALT + n**
 * How to write **[]**: Press **ALT + 5 / ALT + 6**
